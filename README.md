@@ -9,6 +9,8 @@ So please study about JAPANIFICATION (downside would come after prosperity) toge
 let your friends know about this sad story, so that the future generations can skip this tragedy.  
 We do not want to be like Charlemagne, the Holy Roman Emperor, again!! (and of course Japan again)
 
+![JPChar-heatmap](https://github.com/Shinya-GitHub-Center/Twitter-Japanificated/assets/129726604/9553c670-f6a5-46d0-9357-790dafd53d96)
+
 * This is just my subjectively based heatmap, not reflected a real world accurately
 * Moon Church means The Unification Church, not each members of the organization
 * Johnny's means members of Johnny's, not Kitagawa himself
