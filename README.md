@@ -29,4 +29,4 @@ I'm gonna keep reporting from Japan about WTH is going on with this country, unt
 Of course JAPAN! - Tokyo
 
 ### Website
-https://github.com/Shinya-GitHub-Center
+https://twitter.com/DieForNextGen
